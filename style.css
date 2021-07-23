@@ -160,8 +160,15 @@ line-height: 27px;
 .block1, .block2{
     margin: 0 auto;
 }
+.img{
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+}
 .img2{
-    max-width: 1009px;
+    margin: 0 auto;
+    width: 90%;
+    height: 90%;
 }
 .menubar{
     z-index: 100;
@@ -198,12 +205,12 @@ line-height: 27px;
     .block2{
         margin-top: 50px;
     }
-    .img2{
-        max-width: 600px;
-    }
+   
 }
 @media (max-width: 780px){
-    
+    body{
+        font-size: 15px;
+    }
  .menu{
      display: none;
  }
@@ -216,7 +223,7 @@ line-height: 27px;
 }
 @media (max-width: 650px){
     
-    .img2{
-        max-width: 400px;
+    .texta3-2, .texta3, .texta2-3, .texta3-3{
+        font-size: 27px;
     }
    }
