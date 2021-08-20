@@ -52,6 +52,9 @@ line-height: 120%;
     align-items: center;
     justify-content: space-between;
 }
+.menu_hide{
+    margin-bottom: 200px;
+}
 .menu a{
      color: #000000;
 }
