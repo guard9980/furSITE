@@ -46,7 +46,7 @@ font-size: 40px;
 line-height: 120%;
 }
 .menu{
-   
+   margin-bottom: 200px;
     padding-top: 30px;
     display: flex;
     align-items: center;
@@ -171,6 +171,7 @@ line-height: 27px;
     height: 90%;
 }
 .menubar{
+    transition-duration: 10000ms;
     z-index: 100;
     color: white;
     position: fixed;
