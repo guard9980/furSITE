@@ -14,3 +14,6 @@ btn.onclick = function(evt){
         col.classList.add('col');
     }
 }
+function xhrSimulate(){
+  $('#exampleModal22').modal('hide'), 4000;
+};
